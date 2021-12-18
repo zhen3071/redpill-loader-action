@@ -2,6 +2,7 @@
   "extra_cmdline": {
     "vid": "0x558A ",
     "pid": "0x0781",
+    "netif_num":"1",
     "sn": "17A0PDN123456",
     "mac1": "001132123456"
   },
